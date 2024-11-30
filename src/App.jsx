@@ -27,7 +27,7 @@ function App() {
     <div
       className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
       style={{
-        backgroundImage: `url('./public/CC image.jpg')`,
+        backgroundImage: `url('https://github.com/hanumant-dombale/Currency-Converter-React/blob/main/public/CC%20image.jpg?raw=true')`,
       }}
     >
       <div className="w-full">
